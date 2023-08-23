@@ -1,0 +1,30 @@
+
+.framed {
+    box-shadow:
+        -50px -50px 0 -40px #e7d3b6,
+        50px 50px 0 -40px blanchedalmond;
+}
+.discription{
+    background-color:#e7d3b6;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* transform: translateX(-293px);
+    -webkit-transform: translateX(-293px);
+    -moz-transform: translateX(-293px);
+    -ms-transform: translateX(-293px);
+    -o-transform: translateX(-293px); */
+    border-radius: 30% 70% 70% 30% / 30% 34% 66% 70% ;
+    -webkit-border-radius: 30% 70% 70% 30% / 30% 34% 66% 70% ;
+    -moz-border-radius: 30% 70% 70% 30% / 30% 34% 66% 70% ;
+    -ms-border-radius: 30% 70% 70% 30% / 30% 34% 66% 70% ;
+    -o-border-radius: 30% 70% 70% 30% / 30% 34% 66% 70% ;
+}
+.discription h4{
+    color: #fff;
+}
+.discription p{
+    font-weight: 600;
+    color: rgb(49, 3, 3);
+}

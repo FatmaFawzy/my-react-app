@@ -1,0 +1,10 @@
+.card-title{
+    color: red !important;
+}
+.img-contain{
+    height: 400px;
+}
+.card{
+    border: none !important;
+    background-color: transparent !important
+}
